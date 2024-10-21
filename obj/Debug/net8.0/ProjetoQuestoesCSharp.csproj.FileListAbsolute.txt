@@ -1,0 +1,14 @@
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.AssemblyInfoInputs.cache
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.AssemblyInfo.cs
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\bin\Debug\net8.0\ProjetoQuestoesCSharp.exe
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\bin\Debug\net8.0\ProjetoQuestoesCSharp.deps.json
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\bin\Debug\net8.0\ProjetoQuestoesCSharp.runtimeconfig.json
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\bin\Debug\net8.0\ProjetoQuestoesCSharp.dll
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\bin\Debug\net8.0\ProjetoQuestoesCSharp.pdb
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.dll
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\refint\ProjetoQuestoesCSharp.dll
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.pdb
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.genruntimeconfig.cache
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ref\ProjetoQuestoesCSharp.dll
