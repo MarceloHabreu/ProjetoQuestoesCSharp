@@ -12,3 +12,4 @@ C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSha
 C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.pdb
 C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.genruntimeconfig.cache
 C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ref\ProjetoQuestoesCSharp.dll
+C:\Users\marce\Documentos\Aulas_professores_facul\PooMarcão\ProjetoQuestoesCSharp\obj\Debug\net8.0\ProjetoQuestoesCSharp.sourcelink.json

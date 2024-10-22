@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetoQuestoesCSharp._1_a_100
+namespace ProjetoQuestoesCSharp._1_a_25
 {
     internal class Question4
     {
