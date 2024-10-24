@@ -1,4 +1,5 @@
 ﻿using ProjetoQuestoesCSharp._1_a_25;
+using ProjetoQuestoesCSharp._26_a_50;
 using System;
 
 while (true)
@@ -83,6 +84,18 @@ while (true)
             break;
         case 25:
             Question25.DivisivelPor3e5();
+            break;
+        case 26:
+            Question26.Ordena3Numeros();
+            break;
+        case 27:
+            Question27.Fatorial();
+            break;
+        case 28:
+            Question28.Executar();
+            break;
+        case 29:
+            Question29.MediaListaNumeros();
             break;
         case 0:
             return;

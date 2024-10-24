@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoQuestoesCSharp._1_a_25
 {
-    internal class Produto
+    internal class Produto // Classe produto com as propriedades
     {
         // Crie uma classe Produto com propriedades Nome e Preco.
         // atributos
