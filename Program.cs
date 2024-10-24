@@ -97,6 +97,39 @@ while (true)
         case 29:
             Question29.MediaListaNumeros();
             break;
+        case 30:
+            Question30.DescubraPalidromo();
+            break;
+        case 31:
+            Question31.MenorNumeroArray();
+            break;
+        case 32:
+            Question32.MultiplicaValoresArray();
+            break;
+        case 33:
+            Question33.NumerosImparesEmArray();
+            break;
+        case 34:
+            Question34.Executar(); // 34. Crie uma classe Carro com propriedades Marca e Ano.
+            break;
+        case 35:
+            Question35.DescobreAnoBissexto(); // 35. Implemente um método para verificar se um ano é bissexto.
+            break;
+        case 36:
+            Question36.Executar(); // 
+            break;
+        case 37:
+            Question37.SubstituiString(); // 
+            break;
+        case 38:
+            Question38.IndiceMaiorElemArray(); // 
+            break;
+        case 39:
+            Question39.CalcularMDC(); // 
+            break;
+        case 40:
+            Question40.ContarVogais(); // 
+            break;
         case 0:
             return;
         default:
