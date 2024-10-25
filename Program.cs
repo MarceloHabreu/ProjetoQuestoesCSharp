@@ -145,6 +145,21 @@ while (true)
         case 45:
             Question45.SegundoMaiorNoArray(); // 
             break;
+        case 46:
+            Question46.InverteElementosArray(); // 
+            break;
+        case 47:
+            Question47.SomaMatrizes2x2(); // 
+            break;
+        case 48:
+            Question48.ExibeDiaSemana(); // 
+            break;
+        case 49:
+            Question49.VerificaString(); // 
+            break;
+        case 50:
+            Question50.CalculaPotencia(); // 
+            break;
         case 0:
             return;
         default:
