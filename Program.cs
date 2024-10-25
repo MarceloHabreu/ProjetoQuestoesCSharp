@@ -130,6 +130,21 @@ while (true)
         case 40:
             Question40.ContarVogais(); // 
             break;
+        case 41:
+            Question41.DecimalParaBinario(); // 
+            break;
+        case 42:
+            Question42.NumeroParaPalavras(); // 
+            break;
+        case 43:
+            Question43.LancamentoDado(); // 
+            break;
+        case 44:
+            Question44.CalculaIMC(); // 
+            break;
+        case 45:
+            Question45.SegundoMaiorNoArray(); // 
+            break;
         case 0:
             return;
         default:
