@@ -1,5 +1,6 @@
 ﻿using ProjetoQuestoesCSharp._1_a_25;
 using ProjetoQuestoesCSharp._26_a_50;
+using ProjetoQuestoesCSharp._51_a_75;
 using System;
 
 while (true)
@@ -159,6 +160,15 @@ while (true)
             break;
         case 50:
             Question50.CalculaPotencia(); // 
+            break;
+        case 51:
+            Question51.VerificaMatrizSimetrica(); // 
+            break;
+        case 52:
+            Question52.OrdernaNomes(); // 
+            break;
+        case 53:
+            Question53.BuscaFrequenciaArray(); // 
             break;
         case 0:
             return;
