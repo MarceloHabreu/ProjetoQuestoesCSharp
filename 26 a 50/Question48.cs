@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Desenvolva uma função que recebe uma data e exibe o dia da semana correspondente.
         public static void ExibeDiaSemana()
         {
+            Console.WriteLine("---- Questão 48. Desenvolva uma função que recebe uma data e exibe o dia da semana correspondente.! ----");
             Console.Write("Digite uma data (dd/MM/yyyy): ");
             string dataEscrita = Console.ReadLine();
             DateTime data;  // classe DateTime nativa do c#

@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Desenvolva uma função que calcula o IMC e determina a categoria (baixo peso, normal, etc.).
         public static void CalculaIMC()
         {
+            Console.WriteLine("---- Questão 44. Desenvolva uma função que calcula o IMC e determina a categoria (baixo peso, normal, etc.).! ----");
             Console.Write("Digite seu nome:");
             string name = Console.ReadLine();
             Console.Write("Digite seu peso em kg:");

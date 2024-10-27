@@ -12,6 +12,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Crie um programa que simula o lançamento de um dado 100 vezes e exibe a frequência de cada valor.
         public static void LancamentoDado()
         {
+            Console.WriteLine("---- Questão 43. Crie um programa que simula o lançamento de um dado 100 vezes e exibe a frequência de cada valor.! ----");
             Console.Write("Deseja iniciar o lançamento do dado 100 vezes e saber a frequência de cada resultado? (y/n):");
             string response = Console.ReadLine();
 

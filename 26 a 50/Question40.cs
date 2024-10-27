@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Desenvolva uma função que retorna o número de vogais em uma string.
         public static void ContarVogais()
         {
+            Console.WriteLine("---- Questão 40. Desenvolva uma função que retorna o número de vogais em uma string.! ----");
             Console.Write("Digite algo para que seja feita a contagem das vogais existentes:");
             string input = Console.ReadLine();
             Char[] caracters = input.ToCharArray();

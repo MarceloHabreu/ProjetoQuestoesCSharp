@@ -12,6 +12,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         public static void IndiceMaiorElemArray()
         {
             {
+                Console.WriteLine("---- Questão 38. Crie uma função que retorna o índice do maior elemento de um array. ----");
                 Console.Write("Digite a quantidade de números que deseja adicionar ao array:");
                 int quantity = int.Parse(Console.ReadLine());
                 Double[] numbers = new double[quantity];

@@ -22,6 +22,7 @@
         // Função principal para chamar a função de Fibonacci
         public static void Executar()
         {
+            Console.WriteLine("---- Questão 36. Função para gerar os primeiros n números da sequência de Fibonacci ----");
             // Gera e exibe exatamente os 10 primeiros números da sequência de Fibonacci
             int n = 10;
             GerarSequenciaFibonacci(n);

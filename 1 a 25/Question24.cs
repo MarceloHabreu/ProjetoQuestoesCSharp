@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Implemente uma função que converte horas em segundos.
         public static void HorasEmSegundps()
         {
+            Console.WriteLine("---- Questão 24. Implemente uma função que converte horas em segundos. ----");
             Console.Write("Digite um valor em horas para que seja convertido em segundos:");
             double hours = Double.Parse(Console.ReadLine());
 

@@ -12,6 +12,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Implemente um programa que calcula a média de três notas e exibe a situação (Aprovado/Reprovado).
         public static void MediaNotas()
         {
+            Console.WriteLine("---- Questão 17. Implemente um programa que calcula a média de três notas e exibe a situação. ----");
             List<Double> notas = new List<double>();  // reutilizando a estrutura da questão 13
 
             Console.Write("Digite a primeira nota: ");

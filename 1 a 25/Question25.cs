@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Crie uma função que verifica se um número é divisível por 3 e por 5.
         public static void DivisivelPor3e5()
         {
+            Console.WriteLine("---- Questão 25. Crie uma função que verifica se um número é divisível por 3 e por 5. ----");
             Console.Write("Digite um valor para verificar se ele é divisivel por 3 e por 5:");
             double value = Double.Parse(Console.ReadLine());
 

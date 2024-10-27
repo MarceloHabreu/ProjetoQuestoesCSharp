@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Crie uma função que encontra o segundo maior número em um array.
         public static void SegundoMaiorNoArray()
         {
+            Console.WriteLine("---- Questão 45. Crie uma função que encontra o segundo maior número em um array.! ----");
             Console.Write("Digite a quantidade de números que deseja adicionar ao array:");
             int tamanhoArray = int.Parse(Console.ReadLine());
             int[] numbers = new int[tamanhoArray];

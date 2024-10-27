@@ -19,7 +19,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
             if (Regex.IsMatch(input, @"^[a-zA-Z0-9]+$"))   // utilizando a classe regex do c# para que possa fazeer a validação dos caracters, ela nos permite fazer verificar expressões regulares!
             {
                 // Verifica se a string contém apenas letras
-                if (Regex.IsMatch(input, @"^[a-zA-Z]+$"))
+                if (Regex.IsMatch(input, @"^[a-zA-Z]+$")) 
                 {
                     Console.WriteLine($"Há apenas letras em {input}.");
                 }

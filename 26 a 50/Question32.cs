@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Crie uma função que multiplica todos os elementos de um array por um valor fornecido.
         public static void MultiplicaValoresArray()
         {
+            Console.WriteLine("---- Questão 32. Crie uma função que multiplica todos os elementos de um array por um valor fornecido.----");
             Console.Write("Digite a quantidade de números que deseja adicionar ao array:");
             int quantity = int.Parse(Console.ReadLine());
             Double[] numbers = new double[quantity];

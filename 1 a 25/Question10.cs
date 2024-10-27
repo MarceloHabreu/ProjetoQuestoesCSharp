@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Implemente uma função que converte temperatura de Celsius para Fahrenheit.
         public static void CelsiusParaFahrenheit()
         {
+            Console.WriteLine("---- Questão 10. Implemente uma função que converte temperatura de Celsius para Fahrenheit.! ----");
             Console.Write("Digite uma temperatura em graus celsius para que haja a conversão para Fahrenheit: ");
             double celsius = Double.Parse(Console.ReadLine());
 

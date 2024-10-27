@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Implemente um método para verificar se um ano é bissexto.
         public static void DescobreAnoBissexto()
         {
+            Console.WriteLine("---- Questão 35. Implemente um método para verificar se um ano é bissexto. ----");
             Console.Write("Digite um ano para saber se ele é bissexto:");
             int ano = int.Parse(Console.ReadLine());
 

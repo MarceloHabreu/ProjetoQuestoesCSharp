@@ -22,7 +22,7 @@ namespace ProjetoQuestoesCSharp._51_a_75
                 Console.Write($"Digite o {i + 1}º nome: ");
                 string name = Console.ReadLine();
                 names.Add(name);
-            }
+            } 
 
             names.Sort();
             string namesSorted = string.Join(",", names);

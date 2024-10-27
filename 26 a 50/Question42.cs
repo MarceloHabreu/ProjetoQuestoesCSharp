@@ -9,9 +9,10 @@ namespace ProjetoQuestoesCSharp._26_a_50
 {
     internal class Question42
     {
-        // Converte um número para sua representação em palavras (0 a 99)
+        // Implemente uma função que recebe um número e exibe sua representação em palavras.
         public static void NumeroParaPalavras()
         {
+            Console.WriteLine("---- Questão 42. Implemente uma função que recebe um número e exibe sua representação em palavras.! ----");
             Console.Write("Digite um número para que seja convertido para palavras (max=99): ");
             int numero = int.Parse(Console.ReadLine());
 

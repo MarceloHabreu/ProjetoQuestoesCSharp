@@ -12,6 +12,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Desenvolva uma função que retorna a soma dos números ímpares em um array.
         public static void NumerosImparesEmArray()
         {
+            Console.WriteLine("---- Questão 33. Desenvolva uma função que retorna a soma dos números ímpares em um array. ----");
             Console.Write("Digite a quantidade de números que deseja adicionar ao array:");
             int quantity = int.Parse(Console.ReadLine());
             Double[] numbers = new double[quantity];

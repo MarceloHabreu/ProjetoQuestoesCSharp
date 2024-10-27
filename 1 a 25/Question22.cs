@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Escreva um programa que recebe um número e exibe seu dobro e triplo.
         public static void DobroETriplo()
         {
+            Console.WriteLine("---- Questão 22. Escreva um programa que recebe um número e exibe seu dobro e triplo. ----");
             Console.Write("Digite um número para que seja exebido seu dobro e seu triplo: ");
             double number = Double.Parse(Console.ReadLine());
 

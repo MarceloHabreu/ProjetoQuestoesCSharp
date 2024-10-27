@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Desenvolva um método que soma todos os números de 1 a N.
         public static void SomaNumeros1aN()
         {
+            Console.WriteLine("---- Questão 9. Desenvolva um método que soma todos os números de 1 a N.! ----");
             Console.Write("Digite um número para que possa ser feito a soma de todos os número de 1 a ele: ");
             double numberN = Double.Parse(Console.ReadLine());
             double sum = 0;

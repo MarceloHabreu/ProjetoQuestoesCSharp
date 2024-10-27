@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Implemente uma função que encontra o menor número em um array.
         public static void MenorNumeroArray()
         {
+            Console.WriteLine("---- Questão 31. Implemente uma função que encontra o menor número em um array. ----");
             Console.Write("Digite a quantidade de números que deseja adicionar ao array:");
             int quantity = int.Parse(Console.ReadLine()); 
             Double[] numbers = new double[quantity]; 

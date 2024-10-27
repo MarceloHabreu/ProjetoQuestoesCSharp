@@ -33,6 +33,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
     {
         public static void Executar()
         {
+            Console.WriteLine("---- Questão 28. Crie uma classe Aluno com propriedades Nome e Nota. Implemente um método para exibir esses valores. ----");
             Aluno aluno = new Aluno("Marcelo Henrique", 10);
             aluno.ShowInfoAluno();
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoQuestoesCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fec1b622e776134b331843c34394fb9cce756355")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf9fa9d9e39e558a85bc34f7ba5959e1218141b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoQuestoesCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoQuestoesCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

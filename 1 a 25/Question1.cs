@@ -31,6 +31,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
     {
         public static void Executar() // Método para executar a questão
         {
+            Console.WriteLine("---- Questão 1. Crie uma classe Produto com propriedades Nome e Preco.! ----");
             Produto produto1 = new Produto("PS5", 3700.99); // Para não ficar vazio, inicializei um produto nesta questao também!
             produto1.showInfosProduto();
         }

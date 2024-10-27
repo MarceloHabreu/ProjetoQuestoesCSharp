@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Escreva uma função que verifica se um número é par ou ímpar.
         public static void ParOrImpar()
         {
+            Console.WriteLine("---- Questão 4. Escreva uma função que verifica se um número é par ou ímpar.! ----");
             Console.Write("Digite um número para verificar se o número é par ou impar: ");
             double number = Double.Parse(Console.ReadLine());
 

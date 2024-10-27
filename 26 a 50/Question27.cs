@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         public static void Fatorial()
         {
             // Desenvolva um programa que calcula o fatorial de um número.
+            Console.WriteLine("---- Questão 27. Desenvolva um programa que calcula o fatorial de um número. ----");
             Console.Write("Digite um número para que seja calculado sua fatorial:");
             int number = int.Parse(Console.ReadLine());
             long fatorial = 1;

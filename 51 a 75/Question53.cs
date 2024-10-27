@@ -15,7 +15,7 @@ namespace ProjetoQuestoesCSharp._51_a_75
             Console.Write("Quantos números você deseja adicionar para que ocorra a verificação da frequência: ");
             int quantity = int.Parse(Console.ReadLine());
             int[] numbers = new int[quantity];
-
+             
             
             for (int i = 0; i < quantity; i++)
             {

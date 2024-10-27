@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Crie uma função que converte um número decimal para binário.
         public static void DecimalParaBinario()
         {
+            Console.WriteLine("---- Questão 41. Crie uma função que converte um número decimal para binário.! ----");
             Console.Write("Digite um número decimal para que seja convertido para binário:");
             int decimalNumber = int.Parse(Console.ReadLine());
             int originalDecimal = decimalNumber;    // armazenando o número escrito para exibi-lo

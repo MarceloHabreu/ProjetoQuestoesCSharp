@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Crie uma função que retorna o último caractere de uma string fornecida.
         public static void UltimoCaracterString()
         {
+            Console.WriteLine("---- Questão 23. Crie uma função que retorna o último caractere de uma string fornecida. ----");
             Console.Write("Digite uma string para que seja pego e exibido o seu último caracter: ");
             string word = Console.ReadLine();
 

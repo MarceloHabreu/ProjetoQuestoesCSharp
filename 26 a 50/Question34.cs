@@ -31,6 +31,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
     {
         public static void Executar()
         {
+            Console.WriteLine("---- Questão 34.Crie uma classe Carro com propriedades Marca e Ano. ----");
             Carro carro = new Carro("Toyota", 2021);
             carro.showInfoCarro();
         }

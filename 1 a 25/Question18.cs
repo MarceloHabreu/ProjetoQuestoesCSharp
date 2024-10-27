@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._1_a_25
         // Escreva uma função que conta quantas letras 'a' existem em uma string.
         public static void BuscaLetraA()
         {
+            Console.WriteLine("---- Questão 18. Escreva uma função que conta quantas letras 'a' existem em uma string. ----");
             Console.Write("Digite uma palavra para que haja a contagem de quantas letras 'a' existem nesta palavra: ");
             string word = Console.ReadLine();
             

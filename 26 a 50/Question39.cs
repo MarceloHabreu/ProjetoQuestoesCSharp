@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Implemente uma função que calcula o MDC (Máximo Divisor Comum) entre dois números.
         public static void CalcularMDC()
         {
+            Console.WriteLine("---- Questão 39. Implemente uma função que calcula o MDC (Máximo Divisor Comum) entre dois números.! ----");
             Console.Write("Digite o primeiro número: ");
             int num1 = int.Parse(Console.ReadLine());
 

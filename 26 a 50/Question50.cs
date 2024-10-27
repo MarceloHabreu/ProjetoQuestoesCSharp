@@ -21,7 +21,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
             double result = 1;
             for (int i = 0; i < potencia; i++)
             {
-                result *= value;
+                result *= value; 
             }
 
             Console.WriteLine($"{value} elevado a potência de {potencia} equivale a: {result:F1}");

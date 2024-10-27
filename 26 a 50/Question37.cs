@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Desenvolva um programa que recebe uma string e substitui todos os espaços por '_'
         public static void SubstituiString()
         {
+            Console.WriteLine("---- Questão 37.  Desenvolva um programa que recebe uma string e substitui todos os espaços por '_' ----");
             Console.Write("Digite Uma frase qualquer: ");
             string phrase = Console.ReadLine();
 

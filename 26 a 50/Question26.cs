@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         public static void Ordena3Numeros()
         {
             // Crie uma função que ordena três números fornecidos.
+            Console.WriteLine("---- Questão 26. Crie uma função que ordena três números fornecidos. ----");
             List<Double> numbers = new List<double>();
 
             Console.Write("Digite o primeiro número:");

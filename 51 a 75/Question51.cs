@@ -8,7 +8,7 @@ namespace ProjetoQuestoesCSharp._51_a_75
 {
     internal class Question51
     {
-        // Crie uma função que verifica se uma matriz é simétrica.
+        // Crie uma função que verifica se uma matriz é simétrica. 
         public static void VerificaMatrizSimetrica()
         {
             Console.WriteLine("---- Questão 51. Crie uma função que verifica se uma matriz é simétrica.! ----");

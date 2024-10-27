@@ -11,6 +11,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Crie uma função que soma duas matrizes 2x2.
         public static void SomaMatrizes2x2()
         {
+            Console.WriteLine("---- Questão 47. Crie uma função que soma duas matrizes 2x2.! ----");
             Console.WriteLine("Digite os valores de cada matriz para que possa fazer sua respectiva soma!");
             int[,] matrizA = new int[2, 2];
             int[,] matrizB = new int[2, 2];

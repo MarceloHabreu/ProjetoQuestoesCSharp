@@ -13,6 +13,7 @@ namespace ProjetoQuestoesCSharp._26_a_50
         // Crie um programa que verifica se uma palavra é um palíndromo.
         public static void DescubraPalidromo()
         {
+            Console.WriteLine("---- Questão 30. Crie um programa que verifica se uma palavra é um palíndromo. ----");
             Console.Write("Digite uma palavra para descobrir se ela é um palíndromo:");
             string word = Console.ReadLine();
             Char[] chars = word.ToCharArray();
